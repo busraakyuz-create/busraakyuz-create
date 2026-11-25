@@ -17,5 +17,7 @@ Python · pandas · NumPy · scikit-learn · statsmodels · TensorFlow/Keras · 
 | [data-orders-regression](https://github.com/busraakyuz-create/data-orders-regression) | Multivariate linear regression (statsmodels) on what drives customer review scores |
 | [movie-recommendation-system](https://github.com/busraakyuz-create/movie-recommendation-system) | Movie recommendation system |
 | [image-compression-kmeans](https://github.com/busraakyuz-create/image-compression-kmeans) | Image compression by reducing colors with K-Means clustering |
+| [credit-card-fraud-detection](https://github.com/busraakyuz-create/credit-card-fraud-detection) | Fraud detection on highly imbalanced data (0.17% fraud): SMOTE + Keras neural network, 85% recall |
+| [olist-bad-reviews-nlp](https://github.com/busraakyuz-create/olist-bad-reviews-nlp) | NLP topic modelling (LDA) on Portuguese customer reviews to find the main reasons for bad reviews |
 
 📍 Türkiye
