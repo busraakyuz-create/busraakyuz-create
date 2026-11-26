@@ -19,5 +19,6 @@ Python · pandas · NumPy · scikit-learn · statsmodels · TensorFlow/Keras · 
 | [image-compression-kmeans](https://github.com/busraakyuz-create/image-compression-kmeans) | Image compression by reducing colors with K-Means clustering |
 | [credit-card-fraud-detection](https://github.com/busraakyuz-create/credit-card-fraud-detection) | Fraud detection on highly imbalanced data (0.17% fraud): SMOTE + Keras neural network, 85% recall |
 | [olist-bad-reviews-nlp](https://github.com/busraakyuz-create/olist-bad-reviews-nlp) | NLP topic modelling (LDA) on Portuguese customer reviews to find the main reasons for bad reviews |
+| [movie-reviews-sentiment](https://github.com/busraakyuz-create/movie-reviews-sentiment) | Sentiment analysis on 2,000 movie reviews with Bag-of-Words and bigram Naive Bayes (84% accuracy) |
 
 📍 Türkiye
