@@ -12,6 +12,7 @@ Python · pandas · NumPy · scikit-learn · statsmodels · TensorFlow/Keras · 
 ### 📌 Selected projects
 | Project | Description |
 |---|---|
+| [ecg-heartbeat-classification](https://github.com/busraakyuz-create/ecg-heartbeat-classification) | ECG arrhythmia classification (MIT-BIH): debugged misaligned source data, then 1D CNN + class weights reached 0.926 balanced accuracy |
 | [face-recognition-pca-svm](https://github.com/busraakyuz-create/face-recognition-pca-svm) | End-to-end face recognition on LFW: PCA (1850 → 150 components) + SVM in a scikit-learn pipeline, tuned with GridSearchCV |
 | [data-olist-ceo-request](https://github.com/busraakyuz-create/data-olist-ceo-request) | Olist e-commerce case: how many underperforming sellers to remove to maximize profit |
 | [data-orders-regression](https://github.com/busraakyuz-create/data-orders-regression) | Multivariate linear regression (statsmodels) on what drives customer review scores |
