@@ -4,7 +4,7 @@ Data Scientist with an **International Relations** background. I completed the *
 
 ### 🎓 Background
 - Hands-on projects across regression, classification, clustering, NLP, deep learning and reinforcement learning
-- Capstone project: **flight delay prediction** with 2025 flight data
+- Capstone project: **[flight delay prediction](https://github.com/busraakyuz-create/flight-delay-prediction)**: 7M US flights + NOAA weather, LightGBM, deployed as a Streamlit app
 
 ### 🛠️ Tools
 Python · pandas · NumPy · scikit-learn · statsmodels · TensorFlow/Keras · NLTK · SQL (PostgreSQL) · Matplotlib/Seaborn · Jupyter · Git
@@ -12,6 +12,7 @@ Python · pandas · NumPy · scikit-learn · statsmodels · TensorFlow/Keras · 
 ### 📌 Selected projects
 | Project | Description |
 |---|---|
+| [**flight-delay-prediction**](https://github.com/busraakyuz-create/flight-delay-prediction) | **Capstone:** predicts 15+ min arrival delays for 7M US flights (2025) with LightGBM + NOAA weather; time-based split, SHAP, Streamlit demo (ROC-AUC 0.713) |
 | [ecg-heartbeat-classification](https://github.com/busraakyuz-create/ecg-heartbeat-classification) | ECG arrhythmia classification (MIT-BIH): debugged misaligned source data, then 1D CNN + class weights reached 0.926 balanced accuracy |
 | [face-recognition-pca-svm](https://github.com/busraakyuz-create/face-recognition-pca-svm) | End-to-end face recognition on LFW: PCA (1850 → 150 components) + SVM in a scikit-learn pipeline, tuned with GridSearchCV |
 | [data-olist-ceo-request](https://github.com/busraakyuz-create/data-olist-ceo-request) | Olist e-commerce case: how many underperforming sellers to remove to maximize profit |
