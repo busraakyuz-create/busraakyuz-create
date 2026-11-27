@@ -23,4 +23,7 @@ Python · pandas · NumPy · scikit-learn · statsmodels · TensorFlow/Keras · 
 | [olist-bad-reviews-nlp](https://github.com/busraakyuz-create/olist-bad-reviews-nlp) | NLP topic modelling (LDA) on Portuguese customer reviews to find the main reasons for bad reviews |
 | [movie-reviews-sentiment](https://github.com/busraakyuz-create/movie-reviews-sentiment) | Sentiment analysis on 2,000 movie reviews with Bag-of-Words and bigram Naive Bayes (84% accuracy) |
 
+### 📚 Bootcamp exercises
+My other repositories are guided exercises from the bootcamp: Python & OOP, SQL, statistics, machine learning, deep learning, NLP, LLMs with LangChain and reinforcement learning. Each one has a short description and the `workintech-bootcamp` topic → [browse them all](https://github.com/busraakyuz-create?tab=repositories&q=topic%3Aworkintech-bootcamp).
+
 📍 Türkiye
